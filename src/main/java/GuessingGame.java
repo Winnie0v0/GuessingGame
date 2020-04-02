@@ -4,7 +4,6 @@ import java.util.Scanner;
 /*This code is build from an example code from
 https://gist.github.com/jjfiv/767a8041868caae861278659abc063ac*/
 public class GuessingGame {
-	// I mean for you to delete this code or start typing over it.
 	public static void main(String[] args) {
 		final int HIGH = 100;
 		final int LOW = 0;
